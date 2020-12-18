@@ -1,0 +1,1844 @@
+Reading the graph from input file...
+-----
+Calculate GDP protection for demand 0 with source node 2 and with target node 15 with capacity 1.
+24-0 1
+2-1 1
+20-6 1
+18-24 1
+12-15 1
+9-12 1
+8-15 1
+6-9 1
+2-18 1
+1-8 1
+0-20 1
+-----
+UNISO OVID5000UNISO OVID5000UNISO OVID5000UNISO OVID5000UNISO OVID5000UNISO OVID5000UNISO OVID5000UNISO OVID5000UNISO OVID5000UNISO OVID5000UNISO OVID5000-----
+Calculate GDP protection for demand 1 with source node 12 and with target node 9 with capacity 1.
+7-6 1
+8-7 1
+15-8 1
+12-9 1
+12-15 1
+6-9 1
+-----
+Calculate GDP protection for demand 2 with source node 14 and with target node 20 with capacity 1.
+1-0 1
+8-1 1
+9-6 1
+15-8 1
+10-9 1
+11-10 1
+13-11 1
+14-13 1
+14-15 1
+6-20 1
+0-20 1
+-----
+Calculate GDP protection for demand 4 with source node 22 and with target node 16 with capacity 1.
+17-16 1
+22-16 1
+22-17 1
+-----
+UNISO OVID5000UNISO OVID5000UNISO OVID5000-----
+Calculate GDP protection for demand 5 with source node 21 and with target node 22 with capacity 1.
+2-1 1
+18-2 1
+5-4 1
+19-5 1
+20-6 1
+21-19 1
+21-20 1
+17-22 1
+16-17 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+6-9 1
+4-18 1
+1-8 1
+-----
+UNISO OVID4999UNISO OVID4999UNISO OVID4999UNISO OVID4998UNISO OVID5000UNISO OVID5000-----
+Calculate GDP protection for demand 6 with source node 7 and with target node 12 with capacity 1.
+7-6 1
+15-12 1
+9-12 1
+8-15 1
+7-8 1
+6-9 1
+-----
+Calculate GDP protection for demand 7 with source node 13 and with target node 14 with capacity 1.
+13-14 1
+-----
+UNISO OVID4999UNISO OVID4999UNISO OVID5000UNISO OVID5000UNISO OVID5000UNISO OVID5000UNISO OVID5000UNISO OVID5000UNISO OVID4999UNISO OVID5000UNISO OVID5000UNISO OVID5000UNISO OVID5000UNISO OVID4998UNISO OVID5000UNISO OVID4999-----
+Calculate GDP protection for demand 8 with source node 14 and with target node 21 with capacity 1.
+8-1 1
+18-4 1
+9-6 1
+15-8 1
+10-9 1
+11-10 1
+13-11 1
+14-13 1
+20-21 1
+19-21 1
+14-15 1
+6-20 1
+5-19 1
+4-5 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 9 with source node 4 and with target node 5 with capacity 1.
+4-5 1
+-----
+UNISO OVID5000UNISO OVID4998UNISO OVID5000UNISO OVID5000UNISO OVID4998UNISO OVID5000-----
+Calculate GDP protection for demand 10 with source node 15 and with target node 14 with capacity 1.
+12-9 1
+15-12 1
+15-14 1
+13-14 1
+11-13 1
+10-11 1
+9-10 1
+-----
+UNISO OVID5000UNISO OVID4998UNISO OVID4998UNISO OVID4998UNISO OVID4997UNISO OVID4998UNISO OVID4999UNISO OVID5000UNISO OVID4999UNISO OVID5000UNISO OVID5000UNISO OVID4999UNISO OVID5000UNISO OVID4999UNISO OVID4999UNISO OVID4999-----
+Calculate GDP protection for demand 11 with source node 10 and with target node 22 with capacity 1.
+15-8 1
+10-9 1
+17-22 1
+16-17 1
+15-22 1
+14-15 1
+13-14 1
+12-15 1
+11-13 1
+10-11 1
+9-12 1
+8-16 1
+-----
+Calculate GDP protection for demand 12 with source node 17 and with target node 8 with capacity 1.
+9-6 1
+16-8 1
+12-9 1
+15-12 1
+22-15 1
+17-16 1
+17-22 1
+7-8 1
+6-7 1
+-----
+UNISO OVID5000UNISO OVID5000UNISO OVID4998UNISO OVID4998UNISO OVID4998UNISO OVID4997UNISO OVID4998UNISO OVID4999UNISO OVID5000UNISO OVID5000UNISO OVID4999-----
+Calculate GDP protection for demand 13 with source node 4 and with target node 11 with capacity 1.
+2-1 1
+18-2 1
+20-6 1
+13-11 1
+14-13 1
+15-14 1
+21-20 1
+19-21 1
+10-11 1
+9-10 1
+8-15 1
+6-9 1
+5-19 1
+4-18 1
+4-5 1
+1-8 1
+-----
+UNISO OVID4997-----
+Calculate GDP protection for demand 14 with source node 14 and with target node 16 with capacity 1.
+15-8 1
+10-9 1
+11-10 1
+13-11 1
+14-13 1
+22-16 1
+15-22 1
+14-15 1
+12-15 1
+9-12 1
+8-16 1
+-----
+Calculate GDP protection for demand 15 with source node 9 and with target node 4 with capacity 1.
+8-1 1
+5-4 1
+18-4 1
+19-5 1
+9-6 1
+15-8 1
+21-19 1
+20-21 1
+12-15 1
+9-12 1
+6-20 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 16 with source node 2 and with target node 21 with capacity 1.
+24-0 1
+18-4 1
+20-21 1
+19-21 1
+5-19 1
+4-5 1
+2-24 1
+2-18 1
+0-20 1
+-----
+Calculate GDP protection for demand 17 with source node 14 and with target node 3 with capacity 1.
+8-1 1
+5-3 1
+18-3 1
+19-5 1
+9-6 1
+15-8 1
+10-9 1
+11-10 1
+13-11 1
+14-13 1
+21-19 1
+20-21 1
+14-15 1
+6-20 1
+2-18 1
+1-2 1
+-----
+UNISO OVID4998UNISO OVID4996UNISO OVID4996UNISO OVID4998UNISO OVID4997UNISO OVID4997UNISO OVID4997UNISO OVID4993UNISO OVID4997UNISO OVID4998UNISO OVID4998UNISO OVID4996UNISO OVID4997-----
+Calculate GDP protection for demand 18 with source node 22 and with target node 6 with capacity 1.
+7-6 1
+9-6 1
+8-7 1
+16-8 1
+12-9 1
+15-12 1
+22-15 1
+17-16 1
+22-17 1
+-----
+Calculate GDP protection for demand 19 with source node 2 and with target node 16 with capacity 1.
+24-0 1
+2-1 1
+20-6 1
+22-16 1
+18-24 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+6-9 1
+2-18 1
+1-8 1
+0-20 1
+-----
+Calculate GDP protection for demand 20 with source node 2 and with target node 23 with capacity 1.
+24-0 1
+2-1 1
+20-6 1
+22-17 1
+18-24 1
+17-23 1
+16-17 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+6-9 1
+2-18 1
+1-8 1
+0-20 1
+-----
+Calculate GDP protection for demand 21 with source node 18 and with target node 12 with capacity 1.
+2-1 1
+18-2 1
+18-3 1
+20-6 1
+15-12 1
+21-20 1
+19-21 1
+9-12 1
+8-15 1
+6-9 1
+5-19 1
+3-5 1
+1-8 1
+-----
+UNISO OVID4996UNISO OVID4996UNISO OVID4996UNISO OVID4996UNISO OVID4996UNISO OVID4996UNISO OVID4996UNISO OVID4999UNISO OVID4997UNISO OVID4995UNISO OVID4997UNISO OVID4999UNISO OVID4999UNISO OVID4996UNISO OVID4996UNISO OVID4994-----
+Calculate GDP protection for demand 22 with source node 5 and with target node 14 with capacity 1.
+2-1 1
+18-2 1
+5-4 1
+20-6 1
+15-14 1
+21-20 1
+19-21 1
+13-14 1
+11-13 1
+10-11 1
+9-10 1
+8-15 1
+6-9 1
+5-19 1
+4-18 1
+1-8 1
+-----
+UNISO OVID4996UNISO OVID4996UNISO OVID4996UNISO OVID4993UNISO OVID4996UNISO OVID4996UNISO OVID4995UNISO OVID4996UNISO OVID4997UNISO OVID4997UNISO OVID4995UNISO OVID4993-----
+Calculate GDP protection for demand 23 with source node 17 and with target node 6 with capacity 1.
+7-6 1
+9-6 1
+8-7 1
+16-8 1
+12-9 1
+15-12 1
+22-15 1
+17-16 1
+17-22 1
+-----
+UNISO OVID4998UNISO OVID4998UNISO OVID4994UNISO OVID4995UNISO OVID5000UNISO OVID4997UNISO OVID4998UNISO OVID4997UNISO OVID4997-----
+Calculate GDP protection for demand 24 with source node 9 and with target node 18 with capacity 1.
+8-1 1
+5-3 1
+19-5 1
+9-6 1
+15-8 1
+21-19 1
+20-21 1
+12-15 1
+9-12 1
+6-20 1
+3-18 1
+2-18 1
+1-2 1
+-----
+-----
+Calculate GDP protection for demand 25 with source node 18 and with target node 17 with capacity 1.
+2-1 1
+18-2 1
+18-3 1
+20-6 1
+22-17 1
+21-20 1
+19-21 1
+16-17 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+6-9 1
+5-19 1
+3-5 1
+1-8 1
+-----
+Calculate GDP protection for demand 26 with source node 19 and with target node 3 with capacity 1.
+20-0 1
+5-3 1
+18-3 1
+19-5 1
+24-18 1
+21-20 1
+19-21 1
+0-24 1
+-----
+Calculate GDP protection for demand 27 with source node 22 and with target node 19 with capacity 1.
+8-1 1
+18-4 1
+9-6 1
+16-8 1
+12-9 1
+15-12 1
+22-15 1
+17-16 1
+22-17 1
+21-19 1
+20-21 1
+6-20 1
+5-19 1
+4-5 1
+2-18 1
+1-2 1
+-----
+UNISO OVID4993UNISO OVID4997UNISO OVID4997UNISO OVID4997UNISO OVID4997UNISO OVID4993UNISO OVID4989UNISO OVID4993UNISO OVID4993UNISO OVID4994UNISO OVID4998UNISO OVID4997UNISO OVID4994UNISO OVID4990UNISO OVID4996UNISO OVID4997-----
+UNISO OVID4994UNISO OVID4990UNISO OVID4997UNISO OVID4995UNISO OVID4994UNISO OVID4995UNISO OVID4986UNISO OVID4997UNISO OVID4997UNISO OVID4994UNISO OVID4994UNISO OVID4990UNISO OVID4991-----
+UNISO OVID4995UNISO OVID4991UNISO OVID4993UNISO OVID4995UNISO OVID4995UNISO OVID4998UNISO OVID4991UNISO OVID4995UNISO OVID4995UNISO OVID4996UNISO OVID4995UNISO OVID4998UNISO OVID4996UNISO OVID4992UNISO OVID4993UNISO OVID4991-----
+UNISO OVID4998UNISO OVID4999UNISO OVID4992UNISO OVID4997UNISO OVID4998UNISO OVID4997UNISO OVID4998UNISO OVID4999-----
+Calculate GDP protection for demand 28 with source node 3 and with target node 12 with capacity 1.
+2-1 1
+18-2 1
+20-6 1
+15-12 1
+21-20 1
+19-21 1
+9-12 1
+8-15 1
+6-9 1
+5-19 1
+3-18 1
+3-5 1
+1-8 1
+-----
+Calculate GDP protection for demand 29 with source node 13 and with target node 21 with capacity 1.
+8-1 1
+18-4 1
+9-6 1
+15-8 1
+10-9 1
+11-10 1
+13-11 1
+20-21 1
+19-21 1
+14-15 1
+13-14 1
+6-20 1
+5-19 1
+4-5 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 31 with source node 11 and with target node 15 with capacity 1.
+10-9 1
+11-10 1
+14-15 1
+13-14 1
+12-15 1
+11-13 1
+9-12 1
+-----
+UNISO OVID4999UNISO OVID4999UNISO OVID4999UNISO OVID4991UNISO OVID4999UNISO OVID4999UNISO OVID4991-----
+Calculate GDP protection for demand 32 with source node 5 and with target node 20 with capacity 1.
+24-0 1
+5-4 1
+21-20 1
+19-21 1
+18-24 1
+5-19 1
+4-18 1
+0-20 1
+-----
+Calculate GDP protection for demand 34 with source node 23 and with target node 13 with capacity 1.
+7-6 1
+8-7 1
+16-8 1
+14-13 1
+15-14 1
+22-15 1
+17-16 1
+23-17 1
+17-22 1
+11-13 1
+10-11 1
+9-10 1
+6-9 1
+-----
+Calculate GDP protection for demand 35 with source node 8 and with target node 11 with capacity 1.
+7-6 1
+8-7 1
+13-11 1
+14-13 1
+15-14 1
+10-11 1
+9-10 1
+8-15 1
+6-9 1
+-----
+Calculate GDP protection for demand 36 with source node 5 and with target node 18 with capacity 1.
+20-0 1
+5-3 1
+24-18 1
+21-20 1
+19-21 1
+5-19 1
+3-18 1
+0-24 1
+-----
+Calculate GDP protection for demand 39 with source node 10 and with target node 21 with capacity 1.
+8-1 1
+18-4 1
+9-6 1
+15-8 1
+10-9 1
+20-21 1
+19-21 1
+14-15 1
+13-14 1
+11-13 1
+10-11 1
+6-20 1
+5-19 1
+4-5 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 40 with source node 4 and with target node 22 with capacity 1.
+2-1 1
+18-2 1
+20-6 1
+21-20 1
+19-21 1
+17-22 1
+16-17 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+6-9 1
+5-19 1
+4-18 1
+4-5 1
+1-8 1
+-----
+UNISO OVID4995UNISO OVID4997UNISO OVID4997UNISO OVID4997UNISO OVID4997UNISO OVID4997UNISO OVID4996UNISO OVID4999UNISO OVID4992UNISO OVID4995UNISO OVID4997UNISO OVID4998UNISO OVID4997UNISO OVID4995UNISO OVID4995UNISO OVID4991-----
+Calculate GDP protection for demand 41 with source node 20 and with target node 18 with capacity 1.
+20-0 1
+5-3 1
+19-5 1
+24-18 1
+21-19 1
+20-21 1
+3-18 1
+0-24 1
+-----
+Calculate GDP protection for demand 42 with source node 7 and with target node 14 with capacity 1.
+7-6 1
+15-14 1
+13-14 1
+11-13 1
+10-11 1
+9-10 1
+8-15 1
+7-8 1
+6-9 1
+-----
+Calculate GDP protection for demand 43 with source node 9 and with target node 6 with capacity 1.
+7-6 1
+9-6 1
+8-7 1
+15-8 1
+12-15 1
+9-12 1
+-----
+UNISO OVID4997UNISO OVID4997UNISO OVID4997UNISO OVID4997UNISO OVID4990UNISO OVID4995UNISO OVID4995UNISO OVID4995UNISO OVID4997-----
+Calculate GDP protection for demand 44 with source node 13 and with target node 6 with capacity 1.
+7-6 1
+9-6 1
+8-7 1
+15-8 1
+10-9 1
+11-10 1
+13-11 1
+14-15 1
+13-14 1
+-----
+Calculate GDP protection for demand 45 with source node 4 and with target node 10 with capacity 1.
+2-1 1
+18-2 1
+20-6 1
+11-10 1
+13-11 1
+14-13 1
+15-14 1
+21-20 1
+19-21 1
+9-10 1
+8-15 1
+6-9 1
+5-19 1
+4-18 1
+4-5 1
+1-8 1
+-----
+Calculate GDP protection for demand 46 with source node 22 and with target node 20 with capacity 1.
+1-0 1
+8-1 1
+9-6 1
+16-8 1
+12-9 1
+15-12 1
+22-15 1
+17-16 1
+22-17 1
+6-20 1
+0-20 1
+-----
+-----
+Calculate GDP protection for demand 47 with source node 11 and with target node 7 with capacity 1.
+9-6 1
+8-7 1
+15-8 1
+10-9 1
+11-10 1
+14-15 1
+13-14 1
+11-13 1
+6-7 1
+-----
+Calculate GDP protection for demand 48 with source node 7 and with target node 17 with capacity 1.
+7-6 1
+22-17 1
+16-17 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+7-8 1
+6-9 1
+-----
+Calculate GDP protection for demand 50 with source node 6 and with target node 10 with capacity 1.
+11-10 1
+13-11 1
+14-13 1
+15-14 1
+9-10 1
+8-15 1
+7-8 1
+6-9 1
+6-7 1
+-----
+Calculate GDP protection for demand 51 with source node 3 and with target node 7 with capacity 1.
+2-1 1
+18-2 1
+20-6 1
+8-7 1
+21-20 1
+19-21 1
+6-7 1
+5-19 1
+3-18 1
+3-5 1
+1-8 1
+-----
+Calculate GDP protection for demand 52 with source node 21 and with target node 17 with capacity 1.
+2-1 1
+18-2 1
+5-4 1
+19-5 1
+20-6 1
+22-17 1
+21-19 1
+21-20 1
+16-17 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+6-9 1
+4-18 1
+1-8 1
+-----
+Calculate GDP protection for demand 53 with source node 4 and with target node 23 with capacity 1.
+2-1 1
+18-2 1
+20-6 1
+22-17 1
+21-20 1
+19-21 1
+17-23 1
+16-17 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+6-9 1
+5-19 1
+4-18 1
+4-5 1
+1-8 1
+-----
+Calculate GDP protection for demand 54 with source node 19 and with target node 17 with capacity 1.
+2-1 1
+18-2 1
+5-4 1
+19-5 1
+20-6 1
+22-17 1
+21-20 1
+19-21 1
+16-17 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+6-9 1
+4-18 1
+1-8 1
+-----
+Calculate GDP protection for demand 55 with source node 9 and with target node 14 with capacity 1.
+15-14 1
+13-14 1
+12-15 1
+11-13 1
+10-11 1
+9-10 1
+9-12 1
+-----
+Calculate GDP protection for demand 56 with source node 16 and with target node 6 with capacity 1.
+7-6 1
+9-6 1
+8-7 1
+16-8 1
+12-9 1
+15-12 1
+22-15 1
+16-22 1
+-----
+Calculate GDP protection for demand 57 with source node 23 and with target node 10 with capacity 1.
+7-6 1
+8-7 1
+16-8 1
+11-10 1
+13-11 1
+14-13 1
+15-14 1
+22-15 1
+17-16 1
+23-17 1
+17-22 1
+9-10 1
+6-9 1
+-----
+Calculate GDP protection for demand 58 with source node 2 and with target node 8 with capacity 1.
+24-0 1
+2-1 1
+20-6 1
+18-24 1
+7-8 1
+6-7 1
+2-18 1
+1-8 1
+0-20 1
+-----
+Calculate GDP protection for demand 59 with source node 16 and with target node 3 with capacity 1.
+8-1 1
+5-3 1
+18-3 1
+19-5 1
+9-6 1
+16-8 1
+12-9 1
+15-12 1
+22-15 1
+21-19 1
+20-21 1
+16-22 1
+6-20 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 60 with source node 10 and with target node 15 with capacity 1.
+10-9 1
+14-15 1
+13-14 1
+12-15 1
+11-13 1
+10-11 1
+9-12 1
+-----
+Calculate GDP protection for demand 62 with source node 10 and with target node 13 with capacity 1.
+10-9 1
+14-13 1
+15-14 1
+12-15 1
+11-13 1
+10-11 1
+9-12 1
+-----
+Calculate GDP protection for demand 63 with source node 12 and with target node 8 with capacity 1.
+9-6 1
+15-8 1
+12-9 1
+12-15 1
+7-8 1
+6-7 1
+-----
+Calculate GDP protection for demand 64 with source node 13 and with target node 22 with capacity 1.
+15-8 1
+10-9 1
+11-10 1
+13-11 1
+17-22 1
+16-17 1
+15-22 1
+14-15 1
+13-14 1
+12-15 1
+9-12 1
+8-16 1
+-----
+Calculate GDP protection for demand 65 with source node 8 and with target node 20 with capacity 1.
+1-0 1
+8-1 1
+7-6 1
+8-7 1
+6-20 1
+0-20 1
+-----
+Calculate GDP protection for demand 67 with source node 14 and with target node 4 with capacity 1.
+8-1 1
+5-4 1
+18-4 1
+19-5 1
+9-6 1
+15-8 1
+10-9 1
+11-10 1
+13-11 1
+14-13 1
+21-19 1
+20-21 1
+14-15 1
+6-20 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 68 with source node 10 and with target node 3 with capacity 1.
+8-1 1
+5-3 1
+18-3 1
+19-5 1
+9-6 1
+15-8 1
+10-9 1
+21-19 1
+20-21 1
+14-15 1
+13-14 1
+11-13 1
+10-11 1
+6-20 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 69 with source node 9 and with target node 15 with capacity 1.
+9-6 1
+12-15 1
+9-12 1
+8-15 1
+7-8 1
+6-7 1
+-----
+Calculate GDP protection for demand 70 with source node 2 and with target node 20 with capacity 1.
+24-0 1
+2-1 1
+7-6 1
+8-7 1
+18-24 1
+6-20 1
+2-18 1
+1-8 1
+0-20 1
+-----
+Calculate GDP protection for demand 71 with source node 13 and with target node 9 with capacity 1.
+12-9 1
+10-9 1
+11-10 1
+13-11 1
+15-12 1
+14-15 1
+13-14 1
+-----
+Calculate GDP protection for demand 72 with source node 14 and with target node 18 with capacity 1.
+8-1 1
+5-3 1
+19-5 1
+9-6 1
+15-8 1
+10-9 1
+11-10 1
+13-11 1
+14-13 1
+21-19 1
+20-21 1
+14-15 1
+6-20 1
+3-18 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 73 with source node 0 and with target node 6 with capacity 1.
+7-6 1
+20-6 1
+8-7 1
+1-8 1
+0-20 1
+0-1 1
+-----
+Calculate GDP protection for demand 74 with source node 16 and with target node 5 with capacity 1.
+8-1 1
+18-4 1
+19-5 1
+9-6 1
+16-8 1
+12-9 1
+15-12 1
+22-15 1
+21-19 1
+20-21 1
+16-22 1
+6-20 1
+4-5 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 76 with source node 8 and with target node 15 with capacity 1.
+7-6 1
+8-7 1
+12-15 1
+9-12 1
+8-15 1
+6-9 1
+-----
+Calculate GDP protection for demand 77 with source node 2 and with target node 18 with capacity 1.
+24-0 1
+5-3 1
+19-5 1
+21-19 1
+20-21 1
+3-18 1
+2-24 1
+2-18 1
+0-20 1
+-----
+Calculate GDP protection for demand 78 with source node 4 and with target node 12 with capacity 1.
+2-1 1
+18-2 1
+20-6 1
+15-12 1
+21-20 1
+19-21 1
+9-12 1
+8-15 1
+6-9 1
+5-19 1
+4-18 1
+4-5 1
+1-8 1
+-----
+Calculate GDP protection for demand 80 with source node 21 and with target node 23 with capacity 1.
+2-1 1
+18-2 1
+5-4 1
+19-5 1
+20-6 1
+22-17 1
+21-19 1
+21-20 1
+17-23 1
+16-17 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+6-9 1
+4-18 1
+1-8 1
+-----
+Calculate GDP protection for demand 81 with source node 9 and with target node 23 with capacity 1.
+9-6 1
+22-17 1
+17-23 1
+16-17 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+7-8 1
+6-7 1
+-----
+Calculate GDP protection for demand 83 with source node 15 and with target node 21 with capacity 1.
+8-1 1
+18-4 1
+9-6 1
+15-8 1
+12-9 1
+15-12 1
+20-21 1
+19-21 1
+6-20 1
+5-19 1
+4-5 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 84 with source node 3 and with target node 21 with capacity 1.
+24-0 1
+20-21 1
+19-21 1
+18-24 1
+5-19 1
+3-18 1
+3-5 1
+0-20 1
+-----
+Calculate GDP protection for demand 85 with source node 4 and with target node 21 with capacity 1.
+24-0 1
+20-21 1
+19-21 1
+18-24 1
+5-19 1
+4-18 1
+4-5 1
+0-20 1
+-----
+Calculate GDP protection for demand 86 with source node 17 and with target node 10 with capacity 1.
+16-8 1
+12-9 1
+11-10 1
+13-11 1
+15-12 1
+14-13 1
+15-14 1
+22-15 1
+17-16 1
+17-22 1
+9-10 1
+8-15 1
+-----
+Calculate GDP protection for demand 87 with source node 0 and with target node 17 with capacity 1.
+20-6 1
+22-17 1
+16-17 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+6-9 1
+1-8 1
+0-20 1
+0-1 1
+-----
+Calculate GDP protection for demand 88 with source node 17 and with target node 16 with capacity 1.
+17-16 1
+22-16 1
+17-22 1
+-----
+Calculate GDP protection for demand 89 with source node 6 and with target node 2 with capacity 1.
+20-0 1
+8-1 1
+18-2 1
+24-18 1
+7-8 1
+6-20 1
+6-7 1
+1-2 1
+0-24 1
+-----
+Calculate GDP protection for demand 90 with source node 4 and with target node 3 with capacity 1.
+20-0 1
+5-3 1
+18-3 1
+24-18 1
+21-20 1
+19-21 1
+5-19 1
+4-5 1
+0-24 1
+-----
+Calculate GDP protection for demand 91 with source node 23 and with target node 18 with capacity 1.
+8-1 1
+5-3 1
+19-5 1
+9-6 1
+16-8 1
+12-9 1
+15-12 1
+22-15 1
+17-16 1
+23-17 1
+21-19 1
+20-21 1
+17-22 1
+6-20 1
+3-18 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 92 with source node 11 and with target node 2 with capacity 1.
+20-0 1
+8-1 1
+18-2 1
+9-6 1
+15-8 1
+10-9 1
+11-10 1
+24-18 1
+14-15 1
+13-14 1
+11-13 1
+6-20 1
+1-2 1
+0-24 1
+-----
+Calculate GDP protection for demand 93 with source node 5 and with target node 17 with capacity 1.
+2-1 1
+18-2 1
+5-4 1
+20-6 1
+22-17 1
+21-20 1
+19-21 1
+16-17 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+6-9 1
+5-19 1
+4-18 1
+1-8 1
+-----
+Calculate GDP protection for demand 94 with source node 22 and with target node 23 with capacity 1.
+22-16 1
+22-17 1
+17-23 1
+16-17 1
+-----
+Calculate GDP protection for demand 95 with source node 21 and with target node 11 with capacity 1.
+2-1 1
+18-2 1
+5-4 1
+19-5 1
+20-6 1
+13-11 1
+14-13 1
+15-14 1
+21-19 1
+21-20 1
+10-11 1
+9-10 1
+8-15 1
+6-9 1
+4-18 1
+1-8 1
+-----
+Calculate GDP protection for demand 96 with source node 23 and with target node 19 with capacity 1.
+8-1 1
+18-4 1
+9-6 1
+16-8 1
+12-9 1
+15-12 1
+22-15 1
+17-16 1
+23-17 1
+21-19 1
+20-21 1
+17-22 1
+6-20 1
+5-19 1
+4-5 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 97 with source node 0 and with target node 7 with capacity 1.
+20-6 1
+8-7 1
+6-7 1
+1-8 1
+0-20 1
+0-1 1
+-----
+Calculate GDP protection for demand 98 with source node 17 and with target node 4 with capacity 1.
+8-1 1
+5-4 1
+18-4 1
+19-5 1
+9-6 1
+16-8 1
+12-9 1
+15-12 1
+22-15 1
+17-16 1
+21-19 1
+20-21 1
+17-22 1
+6-20 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 100 with source node 15 and with target node 20 with capacity 1.
+1-0 1
+8-1 1
+9-6 1
+15-8 1
+12-9 1
+15-12 1
+6-20 1
+0-20 1
+-----
+Calculate GDP protection for demand 101 with source node 16 and with target node 7 with capacity 1.
+9-6 1
+8-7 1
+16-8 1
+12-9 1
+15-12 1
+22-15 1
+16-22 1
+6-7 1
+-----
+Calculate GDP protection for demand 103 with source node 16 and with target node 10 with capacity 1.
+7-6 1
+8-7 1
+16-8 1
+11-10 1
+13-11 1
+14-13 1
+15-14 1
+22-15 1
+16-22 1
+9-10 1
+6-9 1
+-----
+Calculate GDP protection for demand 105 with source node 23 and with target node 5 with capacity 1.
+8-1 1
+18-4 1
+19-5 1
+9-6 1
+16-8 1
+12-9 1
+15-12 1
+22-15 1
+17-16 1
+23-17 1
+21-19 1
+20-21 1
+17-22 1
+6-20 1
+4-5 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 106 with source node 19 and with target node 2 with capacity 1.
+20-0 1
+18-2 1
+24-2 1
+5-4 1
+19-5 1
+21-20 1
+19-21 1
+4-18 1
+0-24 1
+-----
+Calculate GDP protection for demand 107 with source node 9 and with target node 0 with capacity 1.
+1-0 1
+20-0 1
+8-1 1
+9-6 1
+15-8 1
+12-15 1
+9-12 1
+6-20 1
+-----
+Calculate GDP protection for demand 108 with source node 20 and with target node 7 with capacity 1.
+20-0 1
+20-6 1
+8-7 1
+6-7 1
+1-8 1
+0-1 1
+-----
+Calculate GDP protection for demand 109 with source node 11 and with target node 14 with capacity 1.
+10-9 1
+11-10 1
+15-14 1
+13-14 1
+12-15 1
+11-13 1
+9-12 1
+-----
+Calculate GDP protection for demand 110 with source node 9 and with target node 10 with capacity 1.
+11-10 1
+13-11 1
+14-13 1
+15-14 1
+12-15 1
+9-10 1
+9-12 1
+-----
+Calculate GDP protection for demand 111 with source node 19 and with target node 9 with capacity 1.
+2-1 1
+18-2 1
+5-4 1
+19-5 1
+20-6 1
+12-9 1
+15-12 1
+21-20 1
+19-21 1
+8-15 1
+6-9 1
+4-18 1
+1-8 1
+-----
+Calculate GDP protection for demand 112 with source node 2 and with target node 12 with capacity 1.
+24-0 1
+2-1 1
+20-6 1
+15-12 1
+18-24 1
+9-12 1
+8-15 1
+6-9 1
+2-18 1
+1-8 1
+0-20 1
+-----
+Calculate GDP protection for demand 113 with source node 8 and with target node 13 with capacity 1.
+7-6 1
+8-7 1
+14-13 1
+15-14 1
+11-13 1
+10-11 1
+9-10 1
+8-15 1
+6-9 1
+-----
+Calculate GDP protection for demand 114 with source node 11 and with target node 17 with capacity 1.
+15-8 1
+10-9 1
+11-10 1
+22-17 1
+16-17 1
+15-22 1
+14-15 1
+13-14 1
+12-15 1
+11-13 1
+9-12 1
+8-16 1
+-----
+Calculate GDP protection for demand 115 with source node 7 and with target node 19 with capacity 1.
+8-1 1
+18-4 1
+7-6 1
+21-19 1
+20-21 1
+7-8 1
+6-20 1
+5-19 1
+4-5 1
+2-18 1
+1-2 1
+-----
+-----
+Calculate GDP protection for demand 116 with source node 2 and with target node 5 with capacity 1.
+24-0 1
+18-4 1
+19-5 1
+21-19 1
+20-21 1
+4-5 1
+2-24 1
+2-18 1
+0-20 1
+-----
+Calculate GDP protection for demand 117 with source node 3 and with target node 8 with capacity 1.
+2-1 1
+18-2 1
+20-6 1
+21-20 1
+19-21 1
+7-8 1
+6-7 1
+5-19 1
+3-18 1
+3-5 1
+1-8 1
+-----
+Calculate GDP protection for demand 118 with source node 8 and with target node 9 with capacity 1.
+7-6 1
+8-7 1
+12-9 1
+15-12 1
+8-15 1
+6-9 1
+-----
+Calculate GDP protection for demand 119 with source node 20 and with target node 16 with capacity 1.
+20-0 1
+20-6 1
+22-16 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+6-9 1
+1-8 1
+0-1 1
+-----
+Calculate GDP protection for demand 120 with source node 8 and with target node 23 with capacity 1.
+7-6 1
+8-7 1
+22-17 1
+17-23 1
+16-17 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+6-9 1
+-----
+Calculate GDP protection for demand 121 with source node 22 and with target node 11 with capacity 1.
+16-8 1
+12-9 1
+13-11 1
+15-12 1
+14-13 1
+15-14 1
+22-15 1
+17-16 1
+22-17 1
+10-11 1
+9-10 1
+8-15 1
+-----
+Calculate GDP protection for demand 123 with source node 11 and with target node 0 with capacity 1.
+1-0 1
+20-0 1
+8-1 1
+9-6 1
+15-8 1
+10-9 1
+11-10 1
+14-15 1
+13-14 1
+11-13 1
+6-20 1
+-----
+Calculate GDP protection for demand 125 with source node 18 and with target node 3 with capacity 1.
+18-3 1
+-----
+Calculate GDP protection for demand 126 with source node 3 and with target node 5 with capacity 1.
+24-0 1
+19-5 1
+21-19 1
+20-21 1
+18-24 1
+3-18 1
+3-5 1
+0-20 1
+-----
+Calculate GDP protection for demand 127 with source node 10 and with target node 5 with capacity 1.
+8-1 1
+18-4 1
+19-5 1
+9-6 1
+15-8 1
+10-9 1
+21-19 1
+20-21 1
+14-15 1
+13-14 1
+11-13 1
+10-11 1
+6-20 1
+4-5 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 128 with source node 15 and with target node 23 with capacity 1.
+15-8 1
+22-17 1
+17-23 1
+16-17 1
+15-22 1
+8-16 1
+-----
+Calculate GDP protection for demand 129 with source node 0 and with target node 2 with capacity 1.
+18-2 1
+24-2 1
+5-3 1
+19-5 1
+21-19 1
+20-21 1
+3-18 1
+0-24 1
+0-20 1
+-----
+Calculate GDP protection for demand 130 with source node 2 and with target node 14 with capacity 1.
+24-0 1
+2-1 1
+20-6 1
+15-14 1
+18-24 1
+13-14 1
+11-13 1
+10-11 1
+9-10 1
+8-15 1
+6-9 1
+2-18 1
+1-8 1
+0-20 1
+-----
+Calculate GDP protection for demand 131 with source node 7 and with target node 13 with capacity 1.
+7-6 1
+14-13 1
+15-14 1
+11-13 1
+10-11 1
+9-10 1
+8-15 1
+7-8 1
+6-9 1
+-----
+UNISO OVID4993UNISO OVID4992UNISO OVID4993UNISO OVID4993UNISO OVID4993UNISO OVID4993UNISO OVID4992-----
+Calculate GDP protection for demand 132 with source node 13 and with target node 3 with capacity 1.
+8-1 1
+5-3 1
+18-3 1
+19-5 1
+9-6 1
+15-8 1
+10-9 1
+11-10 1
+13-11 1
+21-19 1
+20-21 1
+14-15 1
+13-14 1
+6-20 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 134 with source node 16 and with target node 15 with capacity 1.
+16-8 1
+22-15 1
+16-22 1
+8-15 1
+-----
+Calculate GDP protection for demand 135 with source node 19 and with target node 12 with capacity 1.
+2-1 1
+18-2 1
+5-4 1
+19-5 1
+20-6 1
+15-12 1
+21-20 1
+19-21 1
+9-12 1
+8-15 1
+6-9 1
+4-18 1
+1-8 1
+-----
+Calculate GDP protection for demand 137 with source node 12 and with target node 13 with capacity 1.
+12-9 1
+14-13 1
+15-14 1
+12-15 1
+11-13 1
+10-11 1
+9-10 1
+-----
+Calculate GDP protection for demand 138 with source node 4 and with target node 19 with capacity 1.
+24-0 1
+21-19 1
+20-21 1
+18-24 1
+5-19 1
+4-18 1
+4-5 1
+0-20 1
+-----
+Calculate GDP protection for demand 140 with source node 7 and with target node 2 with capacity 1.
+20-0 1
+8-1 1
+18-2 1
+7-6 1
+24-18 1
+7-8 1
+6-20 1
+1-2 1
+0-24 1
+-----
+Calculate GDP protection for demand 142 with source node 18 and with target node 6 with capacity 1.
+2-1 1
+18-2 1
+18-3 1
+7-6 1
+20-6 1
+8-7 1
+21-20 1
+19-21 1
+5-19 1
+3-5 1
+1-8 1
+-----
+Calculate GDP protection for demand 143 with source node 8 and with target node 6 with capacity 1.
+7-6 1
+8-7 1
+-----
+Calculate GDP protection for demand 144 with source node 23 and with target node 14 with capacity 1.
+7-6 1
+8-7 1
+16-8 1
+15-14 1
+22-15 1
+17-16 1
+23-17 1
+17-22 1
+13-14 1
+11-13 1
+10-11 1
+9-10 1
+6-9 1
+-----
+Calculate GDP protection for demand 145 with source node 21 and with target node 9 with capacity 1.
+2-1 1
+18-2 1
+5-4 1
+19-5 1
+20-6 1
+12-9 1
+15-12 1
+21-19 1
+21-20 1
+8-15 1
+6-9 1
+4-18 1
+1-8 1
+-----
+Calculate GDP protection for demand 150 with source node 20 and with target node 13 with capacity 1.
+20-0 1
+20-6 1
+14-13 1
+15-14 1
+11-13 1
+10-11 1
+9-10 1
+8-15 1
+6-9 1
+1-8 1
+0-1 1
+-----
+Calculate GDP protection for demand 152 with source node 16 and with target node 21 with capacity 1.
+8-1 1
+18-4 1
+9-6 1
+16-8 1
+12-9 1
+15-12 1
+22-15 1
+20-21 1
+19-21 1
+16-22 1
+6-20 1
+5-19 1
+4-5 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 153 with source node 18 and with target node 10 with capacity 1.
+2-1 1
+18-2 1
+18-3 1
+20-6 1
+11-10 1
+13-11 1
+14-13 1
+15-14 1
+21-20 1
+19-21 1
+9-10 1
+8-15 1
+6-9 1
+5-19 1
+3-5 1
+1-8 1
+-----
+Calculate GDP protection for demand 154 with source node 0 and with target node 23 with capacity 1.
+20-6 1
+22-17 1
+17-23 1
+16-17 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+6-9 1
+1-8 1
+0-20 1
+0-1 1
+-----
+Calculate GDP protection for demand 155 with source node 19 and with target node 18 with capacity 1.
+20-0 1
+5-3 1
+19-5 1
+24-18 1
+21-20 1
+19-21 1
+3-18 1
+0-24 1
+-----
+Calculate GDP protection for demand 157 with source node 18 and with target node 0 with capacity 1.
+20-0 1
+24-0 1
+18-3 1
+21-20 1
+19-21 1
+18-24 1
+5-19 1
+3-5 1
+-----
+Calculate GDP protection for demand 158 with source node 0 and with target node 16 with capacity 1.
+20-6 1
+22-16 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+6-9 1
+1-8 1
+0-20 1
+0-1 1
+-----
+-----
+Calculate GDP protection for demand 159 with source node 6 and with target node 19 with capacity 1.
+8-1 1
+18-4 1
+21-19 1
+20-21 1
+7-8 1
+6-20 1
+6-7 1
+5-19 1
+4-5 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 161 with source node 17 and with target node 12 with capacity 1.
+7-6 1
+8-7 1
+16-8 1
+15-12 1
+22-15 1
+17-16 1
+17-22 1
+9-12 1
+6-9 1
+-----
+Calculate GDP protection for demand 162 with source node 8 and with target node 21 with capacity 1.
+8-1 1
+18-4 1
+7-6 1
+8-7 1
+20-21 1
+19-21 1
+6-20 1
+5-19 1
+4-5 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 163 with source node 0 and with target node 19 with capacity 1.
+18-4 1
+24-18 1
+21-19 1
+20-21 1
+5-19 1
+4-5 1
+0-24 1
+0-20 1
+-----
+-----
+Calculate GDP protection for demand 164 with source node 13 and with target node 16 with capacity 1.
+15-8 1
+10-9 1
+11-10 1
+13-11 1
+22-16 1
+15-22 1
+14-15 1
+13-14 1
+12-15 1
+9-12 1
+8-16 1
+-----
+Calculate GDP protection for demand 165 with source node 8 and with target node 7 with capacity 1.
+8-7 1
+-----
+Calculate GDP protection for demand 167 with source node 16 and with target node 19 with capacity 1.
+8-1 1
+18-4 1
+9-6 1
+16-8 1
+12-9 1
+15-12 1
+22-15 1
+21-19 1
+20-21 1
+16-22 1
+6-20 1
+5-19 1
+4-5 1
+2-18 1
+1-2 1
+-----
+Calculate GDP protection for demand 169 with source node 17 and with target node 13 with capacity 1.
+16-8 1
+12-9 1
+15-12 1
+14-13 1
+15-14 1
+22-15 1
+17-16 1
+17-22 1
+11-13 1
+10-11 1
+9-10 1
+8-15 1
+-----
+Calculate GDP protection for demand 170 with source node 20 and with target node 4 with capacity 1.
+20-0 1
+5-4 1
+18-4 1
+19-5 1
+24-18 1
+21-19 1
+20-21 1
+0-24 1
+-----
+UNISO OVID5000UNISO OVID4995UNISO OVID4995UNISO OVID4992UNISO OVID4992UNISO OVID4994UNISO OVID4997UNISO OVID4995UNISO OVID4994UNISO OVID4994UNISO OVID4992UNISO OVID4992-----
+Calculate GDP protection for demand 171 with source node 4 and with target node 2 with capacity 1.
+20-0 1
+18-2 1
+24-2 1
+21-20 1
+19-21 1
+5-19 1
+4-18 1
+4-5 1
+0-24 1
+-----
+Calculate GDP protection for demand 172 with source node 4 and with target node 16 with capacity 1.
+2-1 1
+18-2 1
+20-6 1
+22-16 1
+21-20 1
+19-21 1
+15-22 1
+12-15 1
+9-12 1
+8-16 1
+6-9 1
+5-19 1
+4-18 1
+4-5 1
+1-8 1
+-----
+Calculate GDP protection for demand 173 with source node 4 and with target node 15 with capacity 1.
+2-1 1
+18-2 1
+20-6 1
+21-20 1
+19-21 1
+12-15 1
+9-12 1
+8-15 1
+6-9 1
+5-19 1
+4-18 1
+4-5 1
+1-8 1
